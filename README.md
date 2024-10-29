@@ -1,7 +1,9 @@
-# 1st Month
+# 모던 리액트 Deep Dive 발표 스터디
 
-월간 CS는 **선정한 주제를 매주 주말에 공유하는 팀**를 하는 팀입니다. <br>
-24년 11월의 목표는 **모던 리액트 Deep Dive **입니다.
+월간 CS는 매일 책을 읽는 팀입니다.
+
+- 책 : 모던 리액트 Deep Dive
+- 기간 : 2024-11-04 ~ 2024-12-29
 
 ## Contributer
 
@@ -20,9 +22,9 @@
 | [@rlaclghks123](https://github.com/rlaclghks123) | rlaclghks123@naver.com |
 | [@jrary](https://github.com/jrary) | kijrary@gmail.com |
 
-## Study Rules
+## Group Rules
 
-https://inblog.ai/monthly-cs/31649
+- [모던 리액트 딥다이브 발표 스터디](https://inblog.ai/monthly-cs/31649) 를 참고해주세요
 
 
 
