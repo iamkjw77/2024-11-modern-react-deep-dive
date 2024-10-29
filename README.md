@@ -17,7 +17,6 @@
 | 정종문 [@bishoe01](https://github.com/bishoe01) | a6gongi@naver.com |
 | 이효경 [@HyoKyoungLee](https://github.com/HyoKyoungLee) | as167@naver.com |
 | 서샛별 [@ssbmel](https://github.com/ssbmel) | sssb2046@gmail.com |
-| 조민호 [@minh0518](https://github.com/minh0518) | sunrise9612@gmail.com |
 | 윤수현 [@soohyun-dev](https://github.com/soohyun-dev) | bmy1320@gmail.com |
 | 김치환 [@rlaclghks123](https://github.com/rlaclghks123) | rlaclghks123@naver.com |
 | 이다현 [@jrary](https://github.com/jrary) | kijrary@gmail.com |
