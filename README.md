@@ -5,7 +5,7 @@
 - 책 : 모던 리액트 Deep Dive
 - 기간 : 2024-11-04 ~ 2024-12-29
 
-## Contributer
+## 👏 Contributer
 
 월간 기여자
 
@@ -22,13 +22,13 @@
 | [@rlaclghks123](https://github.com/rlaclghks123) | rlaclghks123@naver.com |
 | [@jrary](https://github.com/jrary) | kijrary@gmail.com |
 
-## Group Rules
+## 📕 Group Rules
 
 - [모던 리액트 딥다이브 발표 스터디](https://inblog.ai/monthly-cs/31649) 를 참고해주세요
 
 
 
-### Plan
+### 📆 Plan
 
 
 | 주차 | 내용 |
