@@ -1,7 +1,7 @@
 # 1st Month
 
 월간 CS는 **선정한 주제를 매주 주말에 공유하는 팀**를 하는 팀입니다. <br>
-22년 11월의 목표는 **운영체제**입니다.
+24년 11월의 목표는 **모던 리액트 Deep Dive **입니다.
 
 ## Contributer
 
@@ -9,9 +9,9 @@
 
 | Name | Contact |
 | ---- | ------- |
-| [@unchaptered](https://github.com/unchaptered) | workstation19961002@gmail.com |
-| [@kwanyung](https://github.com/kwanyung) | qwe980121@naver.com |
-| [@sumin-dev](https://github.com/sumin-dev) | bonar8888@naver.com |
+| [@lyuna29](https://github.com/lyuna29) | hyunah0418@gmail.com |
+| [@Seokwoodang](https://github.com/Seokwoodang) | swoo1429@gmail.com |
+| [@iamkjw77](https://github.com/iamkjw77) | iamkjw77@naver.com |
 | [@codeing999](https://github.com/codeing999) | codeing999@gmail.com |
 
 ### Plan
