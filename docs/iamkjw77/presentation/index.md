@@ -7,3 +7,5 @@
 [08장. 좋은 리액트 코드 작성을 위한 환경 구축하기](https://www.notion.so/08-14e6bb98b18c80b8875bcea0ab590b93?pvs=4)
 
 [09장. 모던 리액트 개발도구로 개발 및 배포환경 구축하기](https://www.notion.so/09-1536bb98b18c80e7b28dd96f96632122?pvs=4)
+
+[11장. Next.js 13과 리액트 18](https://www.notion.so/11-Next-js-13-18-1606bb98b18c807d967dd3be2500d481?pvs=4)
