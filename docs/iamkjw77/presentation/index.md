@@ -11,3 +11,5 @@
 [11장. Next.js 13과 리액트 18](https://www.notion.so/11-Next-js-13-18-1606bb98b18c807d967dd3be2500d481?pvs=4)
 
 [12장. 모든 웹 개발자가 관심을 가져야 할 핵심 웹 지표](https://www.notion.so/12-1606bb98b18c80db92dbe22348235e3f?pvs=4)
+
+[14장. 웹사이트 보안을 위한 리액트와 웹페이지 보안 이슈](https://www.notion.so/14-16a6bb98b18c804f9a90c60092b8b574?pvs=4)
